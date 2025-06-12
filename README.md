@@ -11,7 +11,7 @@ A simple and clean login page template. Fully responsive, easy to customize, and
 
 ## 📸 Preview
 
-*(Add a screenshot or live demo link here if you have one)*
+![Login Page Screenshot](https://i.ibb.co/RkBZHxB3/Screenshot-15.png)
 
 ## 💻 Technologies Used
 
@@ -19,8 +19,14 @@ A simple and clean login page template. Fully responsive, easy to customize, and
 - CSS3
 - JavaScript (if applicable)
 
+  
+## 🙌 Made by
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/Sanntuuu_/)
+
+
 ## 📂 Usage
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Sanntuuu/FreeLoginPage.git
